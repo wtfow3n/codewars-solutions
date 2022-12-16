@@ -1,3 +1,8 @@
+# ow3n
+# 
+# December 15, 2022
+# 
+
 def likes(names):
     if len(names) == 0:
         return("no one likes this")
