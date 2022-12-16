@@ -1,3 +1,8 @@
+# ow3n
+# 
+# December 15, 2022
+# 
+
 def to_imparfait(verb_phrase):
     verb_phrase2 = verb_phrase[:-2]
     if verb_phrase[:2] == 'Je' or verb_phrase[:2] == 'Tu':
