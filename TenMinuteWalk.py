@@ -1,3 +1,8 @@
+# ow3n
+# 
+# December 15, 2022
+# 
+
 def is_valid_walk(walk):
     if len(walk) != 10: # check if a valid walk
         return False
